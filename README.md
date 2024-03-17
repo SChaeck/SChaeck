@@ -21,7 +21,7 @@
 
 <hr>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zmfhtmgjsej)](https://solved.ac/ghkdwogud852/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zmfhtmgjsej)](https://solved.ac/zmfhtmgjsej/)
 
 
 </div>
