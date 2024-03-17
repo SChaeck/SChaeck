@@ -1,7 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDEFCD&height=160&section=header&text=Welcome%20to%20my%20Github!&fontAlign=50&fontAlignY=70&fontSize=70&fontColor=000000" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDEFCD&height=160&section=header&text=I'm%20Suchae%20Jeong%20&fontAlign=50&fontAlignY=70&fontSize=70&fontColor=2E2E2E" />
 
 <ul>
-  <li> Majoring in Computer Science at Dongguk University
+  <li> Majoring in Computer Science and Engineering at Dongguk University
   <li> Undergraduate Research Student in the NLP Laboratory
   <li> Deeply engaged in studying NLP
   <li> Interested in causal inference
