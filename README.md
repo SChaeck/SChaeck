@@ -4,7 +4,7 @@
   <li> Majoring in Computer Science and Engineering at Dongguk University
   <li> Undergraduate Research Student in the NLP Laboratory
   <li> Deeply engaged in studying NLP
-  <li> Interested in LLM finetuning
+  <li> Interested in LLM finetuning using Reinforcement Learning
 </ul>
 
 <hr>
