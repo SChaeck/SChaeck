@@ -2,7 +2,7 @@
 
 <ul>
   <li> Majoring in Computer Science and Engineering at Dongguk University
-  <li> Deeply engaged in studying NLP
+  <li> Deeply engaged in studying NLP and RL
   <li> Interested in LLM finetuning using Reinforcement Learning
 </ul>
 
